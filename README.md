@@ -14,3 +14,32 @@ MSDN开发人员代码示例
 
 
 [https://developer.xamarin.com/samples/xamarin-forms/all/](https://developer.xamarin.com/samples/xamarin-forms/all/)
+
+
+
+
+wpf  -   prism和mvvmlight中DelegateCommand、RelayCommand对比
+
+在command source 是否启动的处理上的差异：
+RelayCommand使用RoutedCommand相同的逻辑(注册过多，会影响程序性能)：
+```
+  public event EventHandler CanExecuteChanged
+	{
+	  add
+		{
+			CommandManager.RequerySuggested += value;
+		}
+		remove
+		{
+			CommandManager.RequerySuggested -= value;
+		}
+ }
+```
+
+DelegateCommand使用主动通知进行优化：
+```
+    public void RaiseCanExecuteChanged()
+      {
+          OnCanExecuteChanged();
+      }
+```
