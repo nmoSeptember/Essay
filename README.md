@@ -40,3 +40,6 @@ DelegateCommand使用主动通知进行优化：
           OnCanExecuteChanged();
       }
 ```
+
+<br/><br/>
+[流畅设计 Fluent Design System 中的光照效果 RevealBrush，WPF 也能模拟实现啦！](https://walterlv.com/post/fluent-design-reveal-brush-in-wpf.html)
