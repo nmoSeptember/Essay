@@ -2,3 +2,5 @@
 
 
 [SignTool](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/signtool)
+
+[Cryptography Tools](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/cryptography-tools)
