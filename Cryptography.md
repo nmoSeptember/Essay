@@ -15,3 +15,6 @@
 [CAT文件数字签名使用技巧](https://www.4hou.com/system/7891.html)
 
 
+[Authenticode签名对未签名代码的应用](https://www.jianshu.com/p/0bb78d5ac224)
+
+
