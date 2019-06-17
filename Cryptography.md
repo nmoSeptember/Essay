@@ -12,7 +12,6 @@
 
 [SignTool](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/signtool)
 
-
-
+[CAT文件数字签名使用技巧](https://www.4hou.com/system/7891.html)
 
 
