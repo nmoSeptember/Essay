@@ -4,4 +4,4 @@
 [sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
 
 
-[https://docs.microsoft.com/en-us/windows/desktop/learnwin32/learn-to-program-for-windows](https://docs.microsoft.com/en-us/windows/desktop/learnwin32/learn-to-program-for-windows)
+[Build desktop Windows apps using the Win32 API](https://docs.microsoft.com/en-us/windows/desktop/index)
