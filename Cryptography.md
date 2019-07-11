@@ -36,3 +36,7 @@ Code Integrity:<br/>
 Device Guard: Windows Defender Application Control and virtualization-based protection of code integrity:<br/>
 [Device Guard](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/introduction-to-device-guard-virtualization-based-security-and-windows-defender-application-control)
 
+
+[MakeCat](https://docs.microsoft.com/en-us/windows/win32/seccrypto/makecat)
+
+
