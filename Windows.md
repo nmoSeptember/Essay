@@ -16,3 +16,12 @@
 
 
 [Manage the Component Store  - cleanup WinSxS folder](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/manage-the-component-store)
+
+
+[Memory Management](https://docs.microsoft.com/en-us/windows/win32/memory/memory-management)
+
+
+[Dynamic-Link Libraries](https://docs.microsoft.com/zh-cn/windows/win32/dlls/dynamic-link-libraries)
+
+
+[Synchronization](https://docs.microsoft.com/zh-cn/windows/win32/sync/synchronization)
