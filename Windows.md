@@ -12,3 +12,7 @@
 
 
 [Microsoft®Update Catalog](http://www.catalog.update.microsoft.com/Home.aspx)
+
+
+
+[Manage the Component Store  - cleanup WinSxS folder](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/manage-the-component-store)
