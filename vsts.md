@@ -38,6 +38,10 @@
 
 [Choose a process](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?toc=%2Fazure%2Fdevops%2Freference%2Ftoc.json&bc=%2Fazure%2Fdevops%2Freference%2Fbreadcrumb%2Ftoc.json&view=azure-devops-2019&tabs=basic-process)
 
+[Work item type or form](https://docs.microsoft.com/en-us/azure/devops/reference/add-modify-wit?view=azure-devops-2019)
+
+[Customize the work tracking web form](https://docs.microsoft.com/en-us/azure/devops/reference/customize-wit-form?view=azure-devops-2019)
+
 ### Git Repositories
 
 
