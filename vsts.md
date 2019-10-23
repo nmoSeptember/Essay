@@ -42,6 +42,8 @@
 
 [Customize the work tracking web form](https://docs.microsoft.com/en-us/azure/devops/reference/customize-wit-form?view=azure-devops-2019)
 
+[Manage global lists for work item types](https://docs.microsoft.com/en-us/azure/devops/reference/witadmin/manage-global-lists-for-work-item-types?view=azure-devops-2019)
+
 ### Git Repositories
 
 
