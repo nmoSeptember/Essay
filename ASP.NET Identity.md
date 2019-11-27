@@ -7,3 +7,8 @@
 &emsp;&emsp;[Membership三步曲之进阶篇 - 深入剖析Provider Model](https://www.cnblogs.com/jesse2013/p/membership-part2.html)  
 &emsp;&emsp;[从Membership 到 .NET4.5 之 ASP.NET Identity](https://www.cnblogs.com/jesse2013/p/membership-part3.html)  
 &emsp;&emsp;[MVC5 - ASP.NET Identity登录原理 - Claims-based认证和OWIN](https://www.cnblogs.com/jesse2013/p/aspnet-identity-claims-based-authentication-and-owin.html)  
+
+
+
+[ASP.NET MVC 随想录 ](https://www.cnblogs.com/OceanEyes/category/696137.html)
+&emsp;&emsp; WOIN, Katana, Middleware, Identity
