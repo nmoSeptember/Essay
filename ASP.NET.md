@@ -12,3 +12,10 @@
 
 [ASP.NET MVC 随想录 ](https://www.cnblogs.com/OceanEyes/category/696137.html)
 &emsp;&emsp; WOIN, Katana, Middleware, Identity
+
+
+[IIS及其相关功能和操作](https://docs.microsoft.com/en-us/iis/get-started/)
+
+[Building and Packaging Web Application Projects](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/building-and-packaging-web-application-projects)
+
+[Manually Installing Web Packages](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/manually-installing-web-packages)
